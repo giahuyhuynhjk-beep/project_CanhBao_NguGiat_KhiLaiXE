@@ -1,0 +1,7 @@
+opencv-python>=4.10.0
+numpy>=1.26.4
+face-recognition==1.3.0
+mediapipe>=0.10.11
+scipy>=1.13.1
+dlib-bin
+setuptools<82
