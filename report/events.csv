@@ -1,0 +1,103 @@
+Timestamp,Driver_Name,Alert_Type,Level,Duration_Sec,Snapshot_Path
+22/10/2026 16:00:08,Unknown,Ngủ gật,VERY_HIGH,1.74,report\snapshots\Unknown_Ngủ gật_20261022_160008_887.jpg
+22/10/2026 16:00:15,Unknown,Ngủ gật,VERY_HIGH,1.54,report\snapshots\Unknown_Ngủ gật_20261022_160015_667.jpg
+22/10/2026 16:00:51,Unknown,Rời tay khỏi vô-lăng,VERY_HIGH,3.02,report\snapshots\Unknown_Rời tay khỏi vô-lăng_20261022_160051_637.jpg
+22/10/2026 16:01:05,Unknown,Ngủ gật,VERY_HIGH,1.52,report\snapshots\Unknown_Ngủ gật_20261022_160105_353.jpg
+22/10/2026 16:01:14,Unknown,Ngủ gật,VERY_HIGH,1.58,report\snapshots\Unknown_Ngủ gật_20261022_160114_035.jpg
+22/10/2026 16:01:31,Unknown,Ngủ gật,VERY_HIGH,1.62,report\snapshots\Unknown_Ngủ gật_20261022_160131_090.jpg
+22/10/2026 16:01:33,Unknown,Rời tay khỏi vô-lăng,VERY_HIGH,3.07,report\snapshots\Unknown_Rời tay khỏi vô-lăng_20261022_160133_642.jpg
+22/10/2026 16:01:42,Unknown,Rời tay khỏi vô-lăng,VERY_HIGH,3.05,report\snapshots\Unknown_Rời tay khỏi vô-lăng_20261022_160142_561.jpg
+22/10/2026 16:01:45,Unknown,Rời tay khỏi vô-lăng,VERY_HIGH,6.05,report\snapshots\Unknown_Rời tay khỏi vô-lăng_20261022_160145_573.jpg
+22/10/2026 16:02:08,Unknown,Ngủ gật,VERY_HIGH,1.53,report\snapshots\Unknown_Ngủ gật_20261022_160208_085.jpg
+22/10/2026 16:02:13,Unknown,Ngủ gật,VERY_HIGH,1.54,report\snapshots\Unknown_Ngủ gật_20261022_160213_861.jpg
+22/10/2026 16:02:29,Unknown,Lệch vai / tư thế xấu,MEDIUM,3.03,report\snapshots\Unknown_Lệch vai \ tư thế xấu_20261022_160229_511.jpg
+22/10/2026 16:02:30,Unknown,Rời tay khỏi vô-lăng,VERY_HIGH,3.0,report\snapshots\Unknown_Rời tay khỏi vô-lăng_20261022_160230_145.jpg
+22/10/2026 16:02:33,Unknown,Rời tay khỏi vô-lăng,VERY_HIGH,6.03,report\snapshots\Unknown_Rời tay khỏi vô-lăng_20261022_160233_171.jpg
+22/10/2026 16:03:11,Scanning...,Ngủ gật,VERY_HIGH,1.51,report\snapshots\Scanning..._Ngủ gật_20261022_160311_156.jpg
+22/10/2026 16:03:11,Scanning...,Quay đầu / lệch hướng,HIGH,2.51,report\snapshots\Scanning..._Quay đầu \ lệch hướng_20261022_160311_185.jpg
+22/10/2026 16:03:15,Unknown,Ngủ gật,VERY_HIGH,1.75,report\snapshots\Unknown_Ngủ gật_20261022_160315_179.jpg
+22/10/2026 16:03:17,Unknown,Quay đầu / lệch hướng,HIGH,2.53,report\snapshots\Unknown_Quay đầu \ lệch hướng_20261022_160317_643.jpg
+22/10/2026 16:03:19,Unknown,Ngủ gật,VERY_HIGH,5.75,report\snapshots\Unknown_Ngủ gật_20261022_160319_203.jpg
+22/10/2026 16:03:21,Unknown,Rời tay khỏi vô-lăng,VERY_HIGH,3.0,report\snapshots\Unknown_Rời tay khỏi vô-lăng_20261022_160321_078.jpg
+22/10/2026 16:03:21,Unknown,Quay đầu / lệch hướng,HIGH,6.56,report\snapshots\Unknown_Quay đầu \ lệch hướng_20261022_160321_666.jpg
+22/10/2026 16:03:23,Unknown,Ngủ gật,VERY_HIGH,9.76,report\snapshots\Unknown_Ngủ gật_20261022_160323_193.jpg
+22/10/2026 16:03:24,Unknown,Rời tay khỏi vô-lăng,VERY_HIGH,6.02,report\snapshots\Unknown_Rời tay khỏi vô-lăng_20261022_160324_084.jpg
+22/10/2026 16:03:27,Unknown,Ngủ gật,VERY_HIGH,13.77,report\snapshots\Unknown_Ngủ gật_20261022_160327_209.jpg
+22/10/2026 16:03:31,Unknown,Ngủ gật,VERY_HIGH,18.0,report\snapshots\Unknown_Ngủ gật_20261022_160331_439.jpg
+22/10/2026 16:03:32,Unknown,Rời tay khỏi vô-lăng,VERY_HIGH,3.03,report\snapshots\Unknown_Rời tay khỏi vô-lăng_20261022_160332_668.jpg
+22/10/2026 16:03:35,Unknown,Ngủ gật,VERY_HIGH,22.01,report\snapshots\Unknown_Ngủ gật_20261022_160335_462.jpg
+22/10/2026 16:03:39,Unknown,Ngủ gật,VERY_HIGH,26.06,report\snapshots\Unknown_Ngủ gật_20261022_160339_518.jpg
+22/10/2026 16:03:43,Unknown,Ngủ gật,VERY_HIGH,30.08,report\snapshots\Unknown_Ngủ gật_20261022_160343_520.jpg
+22/10/2026 16:03:56,Unknown,Ngủ gật,VERY_HIGH,1.54,report\snapshots\Unknown_Ngủ gật_20261022_160356_714.jpg
+22/10/2026 16:04:00,Unknown,Ngủ gật,VERY_HIGH,5.72,report\snapshots\Unknown_Ngủ gật_20261022_160400_895.jpg
+22/10/2026 16:04:02,Unknown,Rời tay khỏi vô-lăng,VERY_HIGH,3.04,report\snapshots\Unknown_Rời tay khỏi vô-lăng_20261022_160402_264.jpg
+22/10/2026 16:04:05,Unknown,Ngủ gật,VERY_HIGH,9.85,report\snapshots\Unknown_Ngủ gật_20261022_160405_026.jpg
+22/10/2026 16:04:05,Unknown,Rời tay khỏi vô-lăng,VERY_HIGH,6.07,report\snapshots\Unknown_Rời tay khỏi vô-lăng_20261022_160405_296.jpg
+22/10/2026 16:04:15,Unknown,Ngủ gật,VERY_HIGH,1.52,report\snapshots\Unknown_Ngủ gật_20261022_160415_280.jpg
+22/10/2026 16:04:16,Unknown,Quay đầu / lệch hướng,HIGH,2.54,report\snapshots\Unknown_Quay đầu \ lệch hướng_20261022_160416_301.jpg
+22/10/2026 16:04:55,Unknown,Quay đầu / lệch hướng,HIGH,2.52,report\snapshots\Unknown_Quay đầu \ lệch hướng_20261022_160455_220.jpg
+22/10/2026 16:04:59,Unknown,Quay đầu / lệch hướng,HIGH,6.64,report\snapshots\Unknown_Quay đầu \ lệch hướng_20261022_160459_364.jpg
+22/10/2026 16:05:03,Unknown,Quay đầu / lệch hướng,HIGH,10.71,report\snapshots\Unknown_Quay đầu \ lệch hướng_20261022_160503_434.jpg
+22/10/2026 16:05:07,Unknown,Quay đầu / lệch hướng,HIGH,14.72,report\snapshots\Unknown_Quay đầu \ lệch hướng_20261022_160507_447.jpg
+22/10/2026 16:05:10,Unknown,Rời tay khỏi vô-lăng,VERY_HIGH,3.02,report\snapshots\Unknown_Rời tay khỏi vô-lăng_20261022_160510_354.jpg
+22/10/2026 16:05:11,Unknown,Quay đầu / lệch hướng,HIGH,18.83,report\snapshots\Unknown_Quay đầu \ lệch hướng_20261022_160511_525.jpg
+22/10/2026 16:05:13,Unknown,Rời tay khỏi vô-lăng,VERY_HIGH,6.03,report\snapshots\Unknown_Rời tay khỏi vô-lăng_20261022_160513_367.jpg
+22/10/2026 16:05:15,Unknown,Quay đầu / lệch hướng,HIGH,22.97,report\snapshots\Unknown_Quay đầu \ lệch hướng_20261022_160515_663.jpg
+22/10/2026 16:05:16,Unknown,Rời tay khỏi vô-lăng,VERY_HIGH,9.05,report\snapshots\Unknown_Rời tay khỏi vô-lăng_20261022_160516_410.jpg
+22/10/2026 16:05:19,Unknown,Rời tay khỏi vô-lăng,VERY_HIGH,12.1,report\snapshots\Unknown_Rời tay khỏi vô-lăng_20261022_160519_466.jpg
+22/10/2026 16:05:22,Unknown,Quay đầu / lệch hướng,HIGH,2.52,report\snapshots\Unknown_Quay đầu \ lệch hướng_20261022_160522_595.jpg
+22/10/2026 16:05:22,Unknown,Rời tay khỏi vô-lăng,VERY_HIGH,15.24,report\snapshots\Unknown_Rời tay khỏi vô-lăng_20261022_160522_595.jpg
+22/10/2026 16:05:26,Unknown,Quay đầu / lệch hướng,HIGH,6.76,report\snapshots\Unknown_Quay đầu \ lệch hướng_20261022_160526_829.jpg
+22/10/2026 16:05:30,Unknown,Quay đầu / lệch hướng,HIGH,10.89,report\snapshots\Unknown_Quay đầu \ lệch hướng_20261022_160530_962.jpg
+22/10/2026 16:05:34,Unknown,Quay đầu / lệch hướng,HIGH,14.9,report\snapshots\Unknown_Quay đầu \ lệch hướng_20261022_160534_956.jpg
+22/10/2026 16:05:39,Unknown,Quay đầu / lệch hướng,HIGH,18.94,report\snapshots\Unknown_Quay đầu \ lệch hướng_20261022_160539_003.jpg
+22/10/2026 16:05:43,Unknown,Quay đầu / lệch hướng,HIGH,22.96,report\snapshots\Unknown_Quay đầu \ lệch hướng_20261022_160543_019.jpg
+22/10/2026 16:05:47,Unknown,Quay đầu / lệch hướng,HIGH,26.98,report\snapshots\Unknown_Quay đầu \ lệch hướng_20261022_160547_038.jpg
+22/10/2026 16:05:51,Unknown,Quay đầu / lệch hướng,HIGH,31.03,report\snapshots\Unknown_Quay đầu \ lệch hướng_20261022_160551_084.jpg
+22/10/2026 16:05:55,Unknown,Quay đầu / lệch hướng,HIGH,35.07,report\snapshots\Unknown_Quay đầu \ lệch hướng_20261022_160555_123.jpg
+22/10/2026 16:05:59,Unknown,Quay đầu / lệch hướng,HIGH,39.09,report\snapshots\Unknown_Quay đầu \ lệch hướng_20261022_160559_155.jpg
+22/10/2026 16:06:03,Unknown,Quay đầu / lệch hướng,HIGH,43.14,report\snapshots\Unknown_Quay đầu \ lệch hướng_20261022_160603_200.jpg
+22/10/2026 16:06:34,Unknown,Không thấy tay lái,MEDIUM,5.01,report\snapshots\Unknown_Không thấy tay lái_20261022_160634_531.jpg
+22/10/2026 16:06:45,Unknown,Quay đầu / lệch hướng,HIGH,2.5,report\snapshots\Unknown_Quay đầu \ lệch hướng_20261022_160645_815.jpg
+22/10/2026 16:06:59,Unknown,Không thấy tay lái,MEDIUM,5.02,report\snapshots\Unknown_Không thấy tay lái_20261022_160659_756.jpg
+22/10/2026 16:07:02,Unknown,Quay đầu / lệch hướng,HIGH,2.51,report\snapshots\Unknown_Quay đầu \ lệch hướng_20261022_160702_694.jpg
+22/10/2026 16:07:25,Unknown,Rời tay khỏi vô-lăng,VERY_HIGH,3.23,report\snapshots\Unknown_Rời tay khỏi vô-lăng_20261022_160725_498.jpg
+22/10/2026 16:07:28,Unknown,Rời tay khỏi vô-lăng,VERY_HIGH,6.25,report\snapshots\Unknown_Rời tay khỏi vô-lăng_20261022_160728_513.jpg
+22/10/2026 16:07:31,Unknown,Rời tay khỏi vô-lăng,VERY_HIGH,9.27,report\snapshots\Unknown_Rời tay khỏi vô-lăng_20261022_160731_551.jpg
+22/10/2026 16:13:45,Unknown,Ngủ gật,VERY_HIGH,1.51,report\snapshots\Unknown_Ngủ gật_20261022_161345_013.jpg
+22/10/2026 16:13:49,Unknown,Ngủ gật,VERY_HIGH,3.02,report\snapshots\Unknown_Ngủ gật_20261022_161349_040.jpg
+22/10/2026 16:13:50,Unknown,Rời tay khỏi vô-lăng,VERY_HIGH,3.02,report\snapshots\Unknown_Rời tay khỏi vô-lăng_20261022_161350_887.jpg
+22/10/2026 16:13:53,Unknown,Ngủ gật,VERY_HIGH,7.05,report\snapshots\Unknown_Ngủ gật_20261022_161353_047.jpg
+22/10/2026 16:13:53,Unknown,Rời tay khỏi vô-lăng,VERY_HIGH,6.04,report\snapshots\Unknown_Rời tay khỏi vô-lăng_20261022_161353_926.jpg
+22/10/2026 16:13:57,Unknown,Rời tay khỏi vô-lăng,VERY_HIGH,9.05,report\snapshots\Unknown_Rời tay khỏi vô-lăng_20261022_161357_178.jpg
+22/10/2026 16:13:59,Unknown,Rời tay khỏi vô-lăng,VERY_HIGH,12.06,report\snapshots\Unknown_Rời tay khỏi vô-lăng_20261022_161359_951.jpg
+22/10/2026 16:14:02,Unknown,Rời tay khỏi vô-lăng,VERY_HIGH,15.08,report\snapshots\Unknown_Rời tay khỏi vô-lăng_20261022_161402_941.jpg
+22/10/2026 16:14:05,Unknown,Lệch vai / tư thế xấu,MEDIUM,3.01,report\snapshots\Unknown_Lệch vai \ tư thế xấu_20261022_161405_566.jpg
+22/10/2026 16:14:06,Unknown,Ngủ gật,VERY_HIGH,1.52,report\snapshots\Unknown_Ngủ gật_20261022_161406_861.jpg
+22/10/2026 16:14:11,Unknown,Ngủ gật,VERY_HIGH,5.73,report\snapshots\Unknown_Ngủ gật_20261022_161411_059.jpg
+22/10/2026 16:14:15,Unknown,Ngủ gật,VERY_HIGH,9.76,report\snapshots\Unknown_Ngủ gật_20261022_161415_079.jpg
+22/10/2026 16:14:19,Unknown,Ngủ gật,VERY_HIGH,3.04,report\snapshots\Unknown_Ngủ gật_20261022_161419_284.jpg
+22/10/2026 16:14:23,Unknown,Ngủ gật,VERY_HIGH,1.52,report\snapshots\Unknown_Ngủ gật_20261022_161423_680.jpg
+22/10/2026 16:14:27,Unknown,Ngủ gật,VERY_HIGH,5.53,report\snapshots\Unknown_Ngủ gật_20261022_161427_684.jpg
+22/10/2026 16:14:31,Unknown,Ngủ gật,VERY_HIGH,1.81,report\snapshots\Unknown_Ngủ gật_20261022_161431_764.jpg
+22/10/2026 16:17:30,Unknown,Rời tay khỏi vô-lăng,VERY_HIGH,3.14,report\snapshots\Unknown_Rời tay khỏi vô-lăng_20261022_161730_989.jpg
+22/10/2026 16:17:34,Unknown,Rời tay khỏi vô-lăng,VERY_HIGH,6.29,report\snapshots\Unknown_Rời tay khỏi vô-lăng_20261022_161734_137.jpg
+22/10/2026 16:17:52,Unknown,Ngủ gật,VERY_HIGH,1.55,report\snapshots\Unknown_Ngủ gật_20261022_161752_892.jpg
+22/10/2026 16:17:59,Unknown,Ngủ gật,VERY_HIGH,1.52,report\snapshots\Unknown_Ngủ gật_20261022_161759_899.jpg
+22/10/2026 16:18:13,Unknown,Ngáp liên tục,MEDIUM,1.04,report\snapshots\Unknown_Ngáp liên tục_20261022_161813_586.jpg
+22/10/2026 16:18:21,Unknown,Ngáp liên tục,MEDIUM,9.28,report\snapshots\Unknown_Ngáp liên tục_20261022_161821_858.jpg
+22/10/2026 16:18:29,Unknown,Ngáp liên tục,MEDIUM,17.29,report\snapshots\Unknown_Ngáp liên tục_20261022_161829_851.jpg
+22/10/2026 16:18:38,Unknown,Ngáp liên tục,MEDIUM,25.57,report\snapshots\Unknown_Ngáp liên tục_20261022_161838_117.jpg
+22/10/2026 16:18:46,Unknown,Ngáp liên tục,MEDIUM,33.58,report\snapshots\Unknown_Ngáp liên tục_20261022_161846_142.jpg
+22/10/2026 16:18:53,Unknown,Lệch vai / tư thế xấu,MEDIUM,3.04,report\snapshots\Unknown_Lệch vai \ tư thế xấu_20261022_161853_969.jpg
+22/10/2026 16:18:54,Unknown,Ngáp liên tục,MEDIUM,41.61,report\snapshots\Unknown_Ngáp liên tục_20261022_161854_158.jpg
+22/10/2026 16:19:02,Unknown,Lệch vai / tư thế xấu,MEDIUM,11.09,report\snapshots\Unknown_Lệch vai \ tư thế xấu_20261022_161902_022.jpg
+22/10/2026 16:19:03,Unknown,Ngủ gật,VERY_HIGH,1.53,report\snapshots\Unknown_Ngủ gật_20261022_161903_734.jpg
+22/10/2026 16:19:15,Unknown,Rời tay khỏi vô-lăng,VERY_HIGH,3.18,report\snapshots\Unknown_Rời tay khỏi vô-lăng_20261022_161915_471.jpg
+22/10/2026 16:20:20,Unknown,Ngủ gật,VERY_HIGH,1.54,report\snapshots\Unknown_Ngủ gật_20261022_162020_665.jpg
+22/10/2026 16:20:32,Unknown,Ngủ gật,VERY_HIGH,1.56,report\snapshots\Unknown_Ngủ gật_20261022_162032_327.jpg
+22/10/2026 16:20:36,Unknown,Ngáp liên tục,MEDIUM,1.01,report\snapshots\Unknown_Ngáp liên tục_20261022_162036_392.jpg
+22/10/2026 16:20:44,Unknown,Ngáp liên tục,MEDIUM,1.1,report\snapshots\Unknown_Ngáp liên tục_20261022_162044_368.jpg
+22/10/2026 16:20:52,Unknown,Ngáp liên tục,MEDIUM,9.12,report\snapshots\Unknown_Ngáp liên tục_20261022_162052_404.jpg
+22/10/2026 16:21:00,Unknown,Ngáp liên tục,MEDIUM,17.15,report\snapshots\Unknown_Ngáp liên tục_20261022_162100_435.jpg
+22/10/2026 16:21:13,Unknown,Lệch vai / tư thế xấu,MEDIUM,3.01,report\snapshots\Unknown_Lệch vai \ tư thế xấu_20261022_162113_662.jpg
